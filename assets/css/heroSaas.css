@@ -21,6 +21,7 @@ body{
 }
 
 .heroContent{ 
+  width: 450px;
   padding-left: 165px;
   padding-top: 248px;
   padding-bottom: 384px;
