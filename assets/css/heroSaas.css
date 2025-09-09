@@ -1,0 +1,82 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  width: 1440px;
+  height: 1024px;
+  background-color: #05285B;
+  margin: 0 auto;
+
+}
+
+.heroImg{
+  float: right;
+  width: 729px;
+  height: 621px;
+  padding-block: 200px;
+  padding-right: 95px;
+}
+
+.heroContent{ 
+  padding-left: 165px;
+  padding-top: 248px;
+  padding-bottom: 384px;
+}
+
+.heroH2{
+  font-family: "Montserrat" , sans-serif;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 70px;
+  letter-spacing: -0.7px;
+  color: white;
+  margin: 0;
+}
+
+
+.heroP{
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: 0px;
+  color: white;
+}
+
+.heroBtn{
+  width: 345px;
+  height: 64px;
+  border-radius: 3px;
+  background-color: #DC3545;
+  border: none;
+  color: white;
+  font-family: "Montserrat" , sans-serif; 
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 32px;
+  letter-spacing: 0px;
+  text-align: center;
+  display: block;
+  margin-top: 32px;
+}
+
+.heroLogo{
+  display: inline-block;
+  vertical-align: middle;
+  padding-top: 20px;
+}
+
+.heroLogoP{
+  display: inline-block;
+  vertical-align: middle;
+  font-family: Open Sans;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  color: white;
+  padding-top: 20px;
+}
